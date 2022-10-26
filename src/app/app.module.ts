@@ -9,7 +9,7 @@ import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { AddEventPage } from '../pages/add-event/add-event';
 import { EditEventPage } from '../pages/edit-event/edit-event';
-import { addEmitHelpers } from 'typescript';
+// import { addEmitHelpers } from 'typescript';
 
 @NgModule({
   declarations: [
